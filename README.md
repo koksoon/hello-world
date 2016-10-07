@@ -1,3 +1,3 @@
 # hello-world
-hallo repository, i have add some words !!
+This is second edition, and first edition was remove!
 Testing repository
